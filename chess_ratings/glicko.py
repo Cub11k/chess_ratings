@@ -1,7 +1,7 @@
 from math import log, sqrt, pi
 from typing import Union
 
-from types2 import Player, Winner
+from types import Player, Winner
 from utils import chess_score
 
 

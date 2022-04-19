@@ -1,4 +1,4 @@
-from types2 import Player, Winner
+from types import Player, Winner
 from utils import chess_score
 
 

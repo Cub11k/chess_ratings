@@ -1,9 +1,9 @@
 import csv
 import statistics
 
-import types2
+import types
 import utils
-from types2 import Player, Game
+from types import Player, Game
 from utils import chess_score
 from elo import Elo
 from glicko import Glicko

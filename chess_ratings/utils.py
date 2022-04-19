@@ -1,4 +1,4 @@
-from types2 import Winner
+from types import Winner
 
 
 def chess_score(winner: Winner):
